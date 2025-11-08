@@ -1,6 +1,6 @@
 # Hi, I'm Kavinga 👋
 
-A backend developer from Sri Lanka.
+A full-stack developer from Sri Lanka.
 
 ---
 
